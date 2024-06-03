@@ -1,9 +1,0 @@
--rootPath
-/home/ccs/qt/MasterProject
--cmake-output
--output-file
-/home/ccs/qt/build-MasterProject-Desktop-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_MasterProject.cmake
--importPath
-/home/ccs/qt/build-MasterProject-Desktop-Debug
--importPath
-/opt/VM/Qt-6.4.1/./qml

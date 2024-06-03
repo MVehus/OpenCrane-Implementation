@@ -1,9 +1,0 @@
-/home/ccs/qt/build-MasterProject-Desktop-Debug/CMakeFiles/MasterProject.dir
-/home/ccs/qt/build-MasterProject-Desktop-Debug/CMakeFiles/MasterProject_qmlimportscan.dir
-/home/ccs/qt/build-MasterProject-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/ccs/qt/build-MasterProject-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/ccs/qt/build-MasterProject-Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/ccs/qt/build-MasterProject-Desktop-Debug/CMakeFiles/install.dir
-/home/ccs/qt/build-MasterProject-Desktop-Debug/CMakeFiles/install/local.dir
-/home/ccs/qt/build-MasterProject-Desktop-Debug/CMakeFiles/install/strip.dir
-/home/ccs/qt/build-MasterProject-Desktop-Debug/CMakeFiles/MasterProject_autogen.dir
