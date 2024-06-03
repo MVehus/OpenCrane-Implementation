@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/Components">
+        <file>SpreaderIcon.qml</file>
+        <file>SpreaderTiltCharts.qml</file>
+        <file>TiltLabel.qml</file>
+        <file>SpreaderComponent.qml</file>
+        <file>CurrentLocationComponent.qml</file>
+        <file>BlockSmall.qml</file>
+        <file>TargetLocationComponent.qml</file>
+        <file>BlockBig.qml</file>
+        <file>ContainerComponent.qml</file>
+        <file>CraneComponent.qml</file>
+        <file>ValueUnitComponent.qml</file>
+        <file>CraneHeightIndicatorComponent.qml</file>
+        <file>CraneWidthIndicatorComponent.qml</file>
+        <file>StatusComponent.qml</file>
+        <file>StatusTopBarComponent.qml</file>
+        <file>CraneIllustrationComponent.qml</file>
+    </qresource>
+    <qresource prefix="/Assets">
+        <file>Truck.png</file>
+        <file>Storageyard.png</file>
+        <file>LockOpen.png</file>
+        <file>LockClosed.png</file>
+    </qresource>
+</RCC>
